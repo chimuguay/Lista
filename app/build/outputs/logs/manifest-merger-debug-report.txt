@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\1a99e7094844e6b8b1116d86644e422e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\34558e8d6212811e58e37a0d2a02143c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8d84d6334382ba601bb280091a416895\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\d83602deb69c7ea0f59e1e6d7f44fd42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\c5bcf4be361a1fbabdb0a6f014e1164f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\5fd6fc6e7e197a7b94306dc035c8741f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fbcb3246e7f52026b6b1798658d0d55a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\cb877b2fe866a75e7916161af8c5e9d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\609b282dcac1557832081b4b93a697b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b2a6623e7bb00bd623c00e3eac4067c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b6475d345f3193a52c67afd4c02f3fce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\504fe5926837fe12160ab3907549f9c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\4979a9fd2aee6d18c7627d138a55fbeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\a69eab88e23969c2ceceb3b3a668df30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\14d2fb5fdb2d20eda1c5c67bf1af8c70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\825afc99eb383d1e6bb00b6410e00dd2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\7c85992bb9609b66894476004b97cbfa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8555a022e02482344e9cd9f9ee63f30f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\f000a68be43c47a7ec6a61bf75209206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\3026215c479efec9a48433ff8dc684b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\59f1e92419ba42644f266ce70dc437af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fc1354d7dbadc75ef54dfe392d4fda92\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\464aee6988cc81cb947865fb96d9c22d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\92b9b78bcc6b7e81c0704029e40d0b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\0d46862111983d1c92e25d9bb67d3597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\87201c8ce3d47efe2f70a711317b8bd6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\34558e8d6212811e58e37a0d2a02143c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\34558e8d6212811e58e37a0d2a02143c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\825afc99eb383d1e6bb00b6410e00dd2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\825afc99eb383d1e6bb00b6410e00dd2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.omarpelcastre.lista.MainActivity
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\1a99e7094844e6b8b1116d86644e422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\1a99e7094844e6b8b1116d86644e422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\34558e8d6212811e58e37a0d2a02143c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\34558e8d6212811e58e37a0d2a02143c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8d84d6334382ba601bb280091a416895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8d84d6334382ba601bb280091a416895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\d83602deb69c7ea0f59e1e6d7f44fd42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\d83602deb69c7ea0f59e1e6d7f44fd42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\c5bcf4be361a1fbabdb0a6f014e1164f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\c5bcf4be361a1fbabdb0a6f014e1164f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\5fd6fc6e7e197a7b94306dc035c8741f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\5fd6fc6e7e197a7b94306dc035c8741f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fbcb3246e7f52026b6b1798658d0d55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fbcb3246e7f52026b6b1798658d0d55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\cb877b2fe866a75e7916161af8c5e9d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\cb877b2fe866a75e7916161af8c5e9d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\609b282dcac1557832081b4b93a697b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\609b282dcac1557832081b4b93a697b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b2a6623e7bb00bd623c00e3eac4067c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b2a6623e7bb00bd623c00e3eac4067c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b6475d345f3193a52c67afd4c02f3fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\b6475d345f3193a52c67afd4c02f3fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\504fe5926837fe12160ab3907549f9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\504fe5926837fe12160ab3907549f9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\4979a9fd2aee6d18c7627d138a55fbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\4979a9fd2aee6d18c7627d138a55fbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\a69eab88e23969c2ceceb3b3a668df30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\a69eab88e23969c2ceceb3b3a668df30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\14d2fb5fdb2d20eda1c5c67bf1af8c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\14d2fb5fdb2d20eda1c5c67bf1af8c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\65e45764f27fbbc0327b238da56ef204\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\825afc99eb383d1e6bb00b6410e00dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\825afc99eb383d1e6bb00b6410e00dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\7c85992bb9609b66894476004b97cbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\7c85992bb9609b66894476004b97cbfa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8555a022e02482344e9cd9f9ee63f30f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\8555a022e02482344e9cd9f9ee63f30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\f000a68be43c47a7ec6a61bf75209206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\f000a68be43c47a7ec6a61bf75209206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\3026215c479efec9a48433ff8dc684b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\3026215c479efec9a48433ff8dc684b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\59f1e92419ba42644f266ce70dc437af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\59f1e92419ba42644f266ce70dc437af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fc1354d7dbadc75ef54dfe392d4fda92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\fc1354d7dbadc75ef54dfe392d4fda92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\464aee6988cc81cb947865fb96d9c22d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\464aee6988cc81cb947865fb96d9c22d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\92b9b78bcc6b7e81c0704029e40d0b2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\92b9b78bcc6b7e81c0704029e40d0b2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\0d46862111983d1c92e25d9bb67d3597\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\0d46862111983d1c92e25d9bb67d3597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\87201c8ce3d47efe2f70a711317b8bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Arturo Nieva\.gradle\caches\transforms-2\files-2.1\87201c8ce3d47efe2f70a711317b8bd6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arturo Nieva\AndroidStudioProjects\Lista\app\src\main\AndroidManifest.xml
